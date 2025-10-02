@@ -13,8 +13,11 @@ html, body, #root {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    background-color: #f0f4f8;;
-    border-radius: 8px;
+    border-radius: 8px;  
+    background-image: url('../Chatbot_Background.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .chatbot h1 {
